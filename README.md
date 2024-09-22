@@ -6,7 +6,7 @@ Sou recém-graduada em Ciência da Computação pela PUC Goiás e atualmente atu
 [Análise e Classificação de Dados usando MLP](https://github.com/manoellaborges/trabalho-de-conclusao-de-curso)
 
 ### Competências
-- Programação de aplicativos web no ambiente .NET 7.0, C#, JS, ASP.NET MVC, WEB API;
+- Programação de aplicativos web no ambiente .NET 8.0, C#, JS, ASP.NET MVC, WEB API;
 - Construção API RestFull .NET core;
 - Identificação e soluções de problemas através da implementação de softwares
 - Automação de processos utilizando Python
