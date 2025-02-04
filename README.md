@@ -1,20 +1,6 @@
 ## Olá! Eu sou a Manoella 😊
-Sou recém-graduada em Ciência da Computação pela PUC Goiás e atualmente atuo como desenvolvedora de software. Estou cursando Pós-Graduação em Machine Learning Engineer pela FIAP. Com este curso, estou aprofundando meus conhecimentos em Python, análise de dados e machine learning. Sou apaixonada por aprender e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
-
-### Projetos relevantes:
-[API de Produto em C#](https://github.com/manoellaborges/api_produto_csharp)   
-[Análise e Classificação de Dados usando MLP](https://github.com/manoellaborges/trabalho-de-conclusao-de-curso)
-
-### Competências
-- Programação de aplicativos web no ambiente .NET 8.0, C#, JS, ASP.NET MVC, WEB API;
-- Construção API RestFull .NET core;
-- Identificação e soluções de problemas através da implementação de softwares
-- Automação de processos utilizando Python
-- Documentação técnica
-- Banco de dados relacionais (Postgres)
-- Experiência na utilização do Microsoft Visual Studio, Postman, Swagger, Git/GitHub
-- Serviços em Nuvem (AWS):
-  Configuração e uso de AWS S3 para armazenamento de dados em formato parquet com partições diárias.
+Formada em Ciência da Computação pela Puc Goiás e sou pós graduanda em Machine Learning Engineer. Atualmente sou Desenvolvedora de Software full stack e trabalho com as linguagens Python e Angular mas também gosto de me aventurar com o C# sempre que possível.
+Sou uma pessoa apaixonada em aprender sobre teconologia. Estou sempre em busca de aperfeiçoar meus conhecimentos.
 
 #### Esses são os meios para entrar em contato comigo:
 
